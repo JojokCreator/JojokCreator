@@ -10,6 +10,9 @@ I have completed studying CS50 online and am currently enrolled in a 16-week rem
 - how to work in a high-performance tech team, 
 - specialising in full-stack JavaScript development 
 
+
 via https://www.schoolofcode.co.uk/.
 
 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JojokCreator&show_icons=true&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JojokCreator&theme=radical)]()
