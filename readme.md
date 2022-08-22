@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi , I'm Joe Klakus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img src="header.png">
 
-- :school: I am new here and learning!!!!! “I am an Aspiring Full Stack Web Developer”
+<h2>“I am an Aspiring Full Stack Web Developer”</h2>
 
 After spending the most of my life in hospitality and resort management. I am currently looking to change my career path towards using my passion and knowledge in website design and coding.
 
