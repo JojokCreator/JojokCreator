@@ -9,8 +9,7 @@ I have completed studying CS50 online and have just completed the School of Code
 
 I have built several REST API’s linked to databases and front-ends in React which fetched data from those services. We focused on testing and modern software engineering practices using jest, cypress and react-testing. I am proficient in git which I have been using to track different versions of my code and collaborate with other developers.
 
-via https://www.schoolofcode.co.uk/.
-
+<h3>View my portfolio site https://jklakus.netlify.app/</h3>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JojokCreator&show_icons=true&theme=radical)]()
 
