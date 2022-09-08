@@ -51,3 +51,4 @@ cooking & scuba diving.
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+![My Codewars stats](https://www.codewars.com/users/JojokCreator/badges/large)
