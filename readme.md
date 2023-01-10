@@ -3,11 +3,13 @@
 
 <h2>“I am an Aspiring Full Stack Web Developer”</h2>
 
-After spending the most of my life in hospitality and resort management. I am currently looking to change my career path towards using my passion and knowledge in website design and coding.
+I have completed studying CS50 online and completed the School of Code in September 2022. It's a 16-week boot camp where I learnt how to work in a high-performance tech team using agile working methods and user-driven design to create UI/UX. 
 
-I have completed studying CS50 online and have just completed the School of Code a 16-week boot camp where I learnt how to work in a high-performance tech team using agile working methods and user-driven design to create UI/UX. 
+I have built deployed and monetized several Node.Js REST API’s linked to sql and document databases.
 
-I have built several REST API’s linked to databases and front-ends in React which fetched data from those services. We focused on testing and modern software engineering practices using jest, cypress and react-testing. I am proficient in git which I have been using to track different versions of my code and collaborate with other developers.
+I have worked on a number of full stack projects with frontends in React and Next Js. I have good fundemental knowledge of Javascript inlcuding ES2015 syntax and funtional programming.
+
+I focus on testing and modern software engineering practices using jest, cypress, selenium and react-testing. I am proficient in git which I have been using to track different versions of my code and collaborate with other developers.
 
 [View my portfolio site](https://jklakus.live)
 
