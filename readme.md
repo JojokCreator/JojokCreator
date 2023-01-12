@@ -13,7 +13,7 @@ I focus on testing and modern software engineering practices using jest, cypress
 
 [View my portfolio site](https://jklakus.live)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JojokCreator&show_icons=true&theme=radical)]()
+[![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JojokCreator&show_icons=true&theme=radical)]()
 
 <h2>Education</h2>
 
