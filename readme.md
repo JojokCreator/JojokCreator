@@ -1,15 +1,13 @@
 
 <img src="header.png">
 
-<h2>“I am an Aspiring Full Stack Web Developer”</h2>
+<h2>“I am an JavaScript Full Stack Web Developer”</h2>
 
-I have completed studying CS50 online and completed the School of Code in September 2022. It's a 16-week boot camp where I learnt how to work in a high-performance tech team using agile working methods and user-driven design to create UI/UX. 
+Hi there! I am a self-motivated and adaptable individual with a passion for technology and the web. I am constantly seeking to expand my knowledge and develop new skills in areas such as sustainability, social impact, and emerging technologies.
 
-I have built deployed and monetized several Node.Js REST API’s linked to sql and document databases.
+As a web developer, I have experience building web apps, along with video editing and content writing. Outside of coding, I enjoy playing guitar, cooking, and scuba diving, and have volunteered with conservation projects involving turtles and coral restoration. With a strong foundation in programming logic and a focus on JavaScript, including ES2015 syntax and TypeScript, I am skilled in using modern software engineering practices such as jest, cypress, and react-testing to ensure high-quality code. I am also experienced in using git for version control and collaboration with other developers.
 
-I have worked on a number of full stack projects with frontends in React and Next Js. I have good fundemental knowledge of Javascript inlcuding ES2015 syntax and funtional programming.
-
-I focus on testing and modern software engineering practices using jest, cypress, selenium and react-testing. I am proficient in git which I have been using to track different versions of my code and collaborate with other developers.
+As a creative and efficient thinker with strong communication skills, I am confident in my ability to work effectively on a team, especially in a remote setting. I am dedicated to going above and beyond to ensure that I am a valuable asset to any team and am excited to continue expanding my skills in the tech industry.
 
 [View my portfolio site](https://jklakus.live)
 
