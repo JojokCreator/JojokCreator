@@ -9,7 +9,7 @@ As a web developer, I have experience building web apps, along with video editin
 
 As a creative and efficient thinker with strong communication skills, I am confident in my ability to work effectively on a team, especially in a remote setting. I am dedicated to going above and beyond to ensure that I am a valuable asset to any team and am excited to continue expanding my skills in the tech industry.
 
-[View my portfolio site](https://jklakus.live)
+[View my portfolio site](https://jklakus.co.uk)
 
 [![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JojokCreator&show_icons=true&theme=radical)]()
 
