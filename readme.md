@@ -9,7 +9,7 @@ As a developer, my expertise spans front-end and back-end technologies. I enjoy 
 
 I have a passion for exploring new technologies and trends in the web development space. I’m also a big believer in continuous learning, whether it’s refining my skills in TypeScript, experimenting with new frameworks, or diving deeper into content management systems like Sanity.io and Strapi. My goal is always to deliver scalable, efficient solutions that meet the unique needs of my clients.
 
-[View my portfolio site](https://jklakus.co.uk)
+[View my portfolio site](https://performancedrivenwebsites.co.uk/)
 
 [![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JojokCreator&show_icons=true&theme=radical)]()
 
